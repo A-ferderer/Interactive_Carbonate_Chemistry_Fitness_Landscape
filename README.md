@@ -31,7 +31,7 @@ This interactive plot allows users to explore how different carbonate chemistry 
 ## 🔗 Live Figure Access
 
 The interactive version of the figure is available here:  
-👉 [https://yourusername.github.io/interactive-diatom-plot](https://yourusername.github.io/interactive-diatom-plot)
+👉 https://a-ferderer.github.io/Interactive_Carbonate_Chemistry_Fitness_Landscape/
 
 ---
 
