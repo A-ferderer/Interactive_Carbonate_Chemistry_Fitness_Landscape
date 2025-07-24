@@ -49,7 +49,7 @@ Interactive figure archived at: https://doi.org/10.25959/4JM1-9F98
 ## 🛠 Technical Details
 
 - This figure was built using `plotly.js` for browser-based interactivity.
-- All data used in this figure is available within the html file itself or at https://doi.org/10.25959/4JM1-9F98 , and can be explored or reused under the license terms below.
+- All data used in this figure is available within the html (index.html) file itself or at https://doi.org/10.25959/4JM1-9F98 and can be explored and sahred under the license terms below.
 
 ---
 
